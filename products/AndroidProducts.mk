@@ -55,6 +55,7 @@ PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/xenonhd_n7000.mk \
 	$(LOCAL_DIR)/xenonhd_n7100.mk \
 	$(LOCAL_DIR)/xenonhd_r950.mk \
+	$(LOCAL_DIR)/xenonhd_seedmtk.mk \
 	$(LOCAL_DIR)/xenonhd_shamu.mk \
 	$(LOCAL_DIR)/xenonhd_surnia.mk \
 	$(LOCAL_DIR)/xenonhd_t0lte.mk \
